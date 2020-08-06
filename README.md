@@ -38,4 +38,4 @@
 [instagram]: https://www.instagram.com/pratikmundokar18/?hl=en
 [linkedin]: https://www.linkedin.com/in/pratik-mundokar-b8b72b178/
 
-<img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=pratikmundokar&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratikmundokar&show_icons=true&hide_border=true" />
