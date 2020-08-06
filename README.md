@@ -39,9 +39,6 @@
 <br />
 
 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/pratikmundokar18/?hl=en
+[linkedin]: https://www.linkedin.com/in/pratik-mundokar-b8b72b178/
 
