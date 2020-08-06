@@ -10,10 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/pratik-mundokar-b8b72b178/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/pratikmundokar18/?hl=en" />][instagram]
 
-<br />
 
 
 
