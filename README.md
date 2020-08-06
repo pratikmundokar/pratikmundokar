@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on any Project
-- 📫 How to reach me :) Email- pratikmundokar18@gmail.com
+- 📫 How to reach me :) 
+      Email- pratikmundokar18@gmail.com
 - ⚡ Fun fact: I love to run, swim, play Cricket
 
 
