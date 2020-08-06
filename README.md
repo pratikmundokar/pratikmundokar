@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on any Project
-- ⚡ Fun fact: I love to Run, Swim, play Cricket
+- ⚡ Fun fact: I love to run, swim, play Cricket
 
 
 ### Connect with me:
