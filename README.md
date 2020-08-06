@@ -3,10 +3,8 @@
 ## I'm a Developer and a Learner!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Cricket, Run, Swim
-
+- 👯 I’m looking to collaborate on anything code
+- ⚡ Fun fact: I love to Run, Swim, Play Cricket
 
 
 ### Connect with me:
