@@ -3,8 +3,8 @@
 ## I'm a Developer and a Learner!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on anything code
-- ⚡ Fun fact: I love to Run, Swim, Play Cricket
+- 👯 I’m looking to collaborate on any Project
+- ⚡ Fun fact: I love to Run, Swim, play Cricket
 
 
 ### Connect with me:
