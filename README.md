@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a Learner!
 
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Everthing🤣
 - 👯 I’m looking to collaborate on any Project
 - 📫 How to reach me :)
       Email- pratikmundokar18@gmail.com
@@ -18,6 +18,14 @@
 <br />
 
 ### Languages and Tools:
+<br>
+<ul>
+      <li>Programming Languages: Python, C++, Javascript, Typescript, Java, HTML/CSS</li>
+      <li>Software Technologies: NodeJS, Angular, Amazon Web Services(AWS), Git, Redux, Hooks<li>
+
+
+
+<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
