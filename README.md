@@ -2,12 +2,9 @@
 
 ## I'm a Full Stack Developer🚀 and a Learner!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 - 🌱 I’m currently learning Everthing🤣
 - 👯 I’m looking to collaborate on any Project
-- 📫 How to reach me :)   <br> 
-        Email- pratikmundokar18@gmail.com
+- 📫 How to reach me :) Email- pratikmundokar18@gmail.com
 - ⚡ Areas of Interest - Full Stack
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: I love to run, swim, play Cricket
