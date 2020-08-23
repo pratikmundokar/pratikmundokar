@@ -18,12 +18,12 @@
 <br />
 
 ### Languages and Tools:
-<ul>
+
       <li>Programming Languages: Python, C++, Javascript, Typescript, Java, HTML/CSS</li>
       <li>Software Technologies: NodeJS, Amazon Web Services(AWS), Redux, Hooks, Git</li>
       <li>FrameWorks: Angular, Django, React, ExpressJS</li>
       <li>Database: MySQL, MongoDB, Firebase</li>
-</ul>
+
 </br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
