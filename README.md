@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on any Project
-- 📫 How to reach me :D
+- 📫 How to reach me :)
       Email- pratikmundokar18@gmail.com
 - ⚡ Areas of Interest - Full Stack
 - ⚡ Fun fact: I love to run, swim, play Cricket
