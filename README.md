@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any Project
 - 📫 How to reach me :) Email- pratikmundokar18@gmail.com
 - ⚡ Areas of Interest - Full Stack
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about Python, Javascript, Web Development, Mathematics
 - ⚡ Fun fact: I love to run, swim, play Cricket
 
 ### Connect with me:
