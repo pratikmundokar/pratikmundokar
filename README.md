@@ -1,6 +1,6 @@
 ### Hi there, I'm Pratik Mundokar 👋
 
-## I'm a Developer and a Learner!
+## I'm a Full Stack Developer and a Learner!
 
 - 🌱 I’m currently learning Everthing🤣
 - 👯 I’m looking to collaborate on any Project
