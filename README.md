@@ -2,6 +2,8 @@
 
 ## I'm a Full Stack Developer and a Learner!
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🌱 I’m currently learning Everthing🤣
 - 👯 I’m looking to collaborate on any Project
 - 📫 How to reach me :)
