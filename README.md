@@ -18,10 +18,10 @@
 
 ### Languages and Tools:
 <ul>
-      <li><b>Programming Languages</b>: Python, C++, Javascript, Typescript, Java, HTML/CSS, SQL</li>
-      <li>Software Technologies: NodeJS, Amazon Web Services(AWS), Redux, Hooks, Git</li>
-      <li>FrameWorks: Angular, Django, React, ExpressJS</li>
-      <li>Database: MySQL, MongoDB, Firebase</li>
+      <li><b>Programming Languages:</b> Python, C++, Javascript, Typescript, Java, HTML/CSS, SQL</li>
+      <li><b>Software Technologies:</b> NodeJS, Amazon Web Services(AWS), Redux, Hooks, Git</li>
+      <li><b>FrameWorks:</b> Angular, Django, React, ExpressJS</li>
+      <li><b>Database:</b> MySQL, MongoDB, Firebase</li>
 </ul>
 </br>
 
