@@ -7,8 +7,10 @@
 - 📫 How to reach me :)
       Email- pratikmundokar18@gmail.com
 - ⚡ Areas of Interest - Full Stack
+- 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: I love to run, swim, play Cricket
 
+<img src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
 ### Connect with me:
 
