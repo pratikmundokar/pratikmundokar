@@ -24,7 +24,6 @@
       <li><b>Database:</b> MySQL, MongoDB, Firebase</li>
 </ul>
 </br>
-</br>
 
 [instagram]: https://www.instagram.com/pratikmundokar18/?hl=en
 [linkedin]: https://www.linkedin.com/in/pratik-mundokar-b8b72b178/
