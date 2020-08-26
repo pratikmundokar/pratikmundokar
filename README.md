@@ -24,7 +24,6 @@
       <li><b>Database:</b> MySQL, MongoDB, Firebase</li>
 </ul>
 </br>
-
 [instagram]: https://www.instagram.com/pratikmundokar18/?hl=en
 [linkedin]: https://www.linkedin.com/in/pratik-mundokar-b8b72b178/
 <img align="left" alt="Pratik Mundokar Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikmundokar&show_icons=true&hide_border=true" />
