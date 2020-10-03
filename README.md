@@ -3,7 +3,6 @@
 ## I'm a Full Stack Developer🚀 and a Learner!
 
 - 🌱 I’m currently learning Angular.
-- 👯 I’m looking to collaborate on any Project
 - 📫 How to reach me :) Email- pratikmundokar18@gmail.com
 - ⚡ Areas of Interest - Full Stack
 - 💬 Ask me about Python, Javascript, Web Development, Mathematics
