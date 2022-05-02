@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Developer🚀 and a Learner!
 
-- 🌱 I’m currently learning Angular.
-- 📫 How to reach me :) Email- pratikmundokar18@gmail.com
-- ⚡ Areas of Interest - Full Stack
-- 💬 Ask me about Python, Javascript, Web Development, Mathematics
-- ⚡ Fun fact: I love to run, swim, play Cricket
+- 🌱 Learning new Skills.
+- 📫 How to reach me :) Email- pratikmundokar14@gmail.com
+- ⚡ Areas of Interest - Full Stack Development
+- 💬 Ask me about Javascript, Web Development, Mathematics.
+- ⚡ Fun fact: I love to run, play Cricket.
 
 ### Connect with me:
 
@@ -17,8 +17,8 @@
 
 ### Languages and Tools:
 <ul>
-      <li><b>Programming Languages:</b> Python, C++, Javascript, Typescript, Java, HTML/CSS, SQL</li>
-      <li><b>Software Technologies:</b> NodeJS, Redux, Hooks, Amazon Web Services(AWS), Git</li>
+      <li><b>Programming Languages:</b> Python, C++, Javascript, Typescript, Java,C#, HTML/CSS, SQL</li>
+      <li><b>Software Technologies:</b> NodeJS, Redux, Hooks, Azure, Git</li>
       <li><b>Frameworks:</b> Angular, Django, React, ExpressJS</li>
       <li><b>Database:</b> MySQL, MongoDB, Firebase</li>
 </ul>
